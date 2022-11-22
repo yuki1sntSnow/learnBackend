@@ -1,0 +1,10 @@
+bcrypt
+fastapi[all]
+passlib
+pytest
+python-jose
+requests
+tortoise-orm
+uvicorn[standard]
+websockets
+loguru
